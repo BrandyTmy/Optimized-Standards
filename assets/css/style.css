@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-*/ <--Made an error below, unsure how to fix-->
+*/<--Made an error below, could not get the conatiner where is was supposed to be-->
 
 .benefits {
     margin-left: 1000px;
@@ -87,7 +87,7 @@ p {
     background-color: #2589bd;
     
 }
-<-- Attempted to group the "benefit content" together since they all share the same properties but had to revert the changes, unsure what happened-->
+*/<-- Attempted to group the "benefit content" together since they all share the same properties but had to revert the changes, unsure what happened-->
 .benefit-lead{
     margin-bottom:32px;
     color:#ffffff
